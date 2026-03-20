@@ -1,22 +1,19 @@
-# 🏃 Sub-30 Minute 5km Predictor (100-Day Project)
+# 🏃 Road to Sub-30 (5km)
+**A 100-day experiment in consistency and linear regression.**
 
-A data-driven approach to tracking physiological progression. This project utilizes personal running data to model fitness improvement and predict the timeline to achieving a sub-30 minute 5km run.
+I'm a self-taught AI/ML research engineer. While I spend a lot of time on math and code, I realized the best way to understand data is to generate it myself. 
 
-## 🔬 The Research Mission
-As a self-taught AI/ML engineer, I am treating my daily running habit as a longitudinal study. By logging pace, heart rate, and recovery metrics over 100 days, I am building a dataset to perform predictive inference.
+I’m currently running a 5km every day. This repo is where I track my progress, log my raw stats, and eventually, build the models to predict exactly when I’ll hit a sub-30 minute pace.
 
-## 📈 The Mathematics of Progress
-We model the pace improvement using **Linear Regression** to determine the rate of change in velocity ($v$) over time ($t$):
+## 🔬 Why I'm doing this
+- **Data Integrity:** I'm logging manually for now to stay close to the numbers. No fancy APIs yet—just raw data entry.
+- **The Math:** I'm using Linear Regression ($y = mx + b$) to find my rate of improvement. As I hit plateaus (which I know I will), I’ll start exploring more complex models.
+- **The Streak:** 100 days of running = 100 days of GitHub commits. Love those "Green Squares" on my profile
 
-$$y = mx + b$$
+## 🛠️ The Setup
+- `log_run.py`: My daily data entry script.
+- `running_logs.csv`: My source of truth.
+- `predict.py`: (In progress) The inference engine to tell me my "Goal Date."
 
-Where:
-* **$y$**: Predicted Pace (min/km)
-* **$m$**: Rate of improvement (slope)
-* **$x$**: Days of training
-* **$b$**: Initial fitness baseline (intercept)
-
-## 🛠️ Project Structure
-- `log_run.py`: Python interface for daily data entry.
-- `running_logs.csv`: The primary dataset tracking 100 days of runs.
-- `predict.py`: (In Development) The inference engine to calculate the goal date.
+**Current PB:** 39:13. 
+**Goal:** 29:59.
