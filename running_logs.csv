@@ -1,2 +1,3 @@
 date,distance_km,duration_minutes,pace_per_km,heart_rate,sleep_hours,notes
 2026-03-20,5.0,39.13,7.83,148,5.5,"""Day 1"""
+2026-03-21,5.0,39.0,7.8,148,6.0,Day 2
