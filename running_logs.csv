@@ -12,3 +12,4 @@ date,distance_km,duration_minutes,pace_per_km,heart_rate,sleep_hours,notes
 2026-03-30,5.0,50.0,10.0,131,4.0,Day 10
 2026-03-31,1.0,10.0,10.0,140,9.0,Day 11 - Sick (Cold)
 2026-04-01,5.0,47.0,9.4,133,5.0,"""Day 12 - Recovery mode"""
+2026-04-02,5.0,55.0,11.0,130,5.0,"""Day 13"""
