@@ -16,3 +16,4 @@ date,distance_km,duration_minutes,pace_per_km,heart_rate,sleep_hours,notes
 2026-04-03,5.0,15.0,3.0,130,5.0,Day 14: Down with flu. Only managed 1km
 2026-04-04,5.0,39.0,7.8,169,4.0,Day 15 - Ran a 13km long run
 2026-04-05,3.0,33.0,11.0,121,4.0,"""Day 16: Logged 3km recovery run"""
+2026-04-06,5.0,55.0,11.0,120,5.0,Day 17: 5km recovery walk
