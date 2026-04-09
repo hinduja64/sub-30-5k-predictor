@@ -18,3 +18,4 @@ date,distance_km,duration_minutes,pace_per_km,heart_rate,sleep_hours,notes
 2026-04-05,3.0,33.0,11.0,121,4.0,"""Day 16: Logged 3km recovery run"""
 2026-04-06,5.0,55.0,11.0,120,5.0,Day 17: 5km recovery walk
 2026-04-08,0.01,0.01,1.0,100,4.0,"""Rest Day"""
+2026-04-09,5.0,46.0,9.2,142,4.0,"""Day 19"""
