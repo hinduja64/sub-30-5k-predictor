@@ -23,3 +23,4 @@ date,distance_km,duration_minutes,pace_per_km,heart_rate,sleep_hours,notes
 2026-04-11,0.01,0.01,1.0,130,7.0,"""Rest day"""
 2026-04-12,8.0,65.0,8.12,158,6.0,Day 22
 2026-04-13,4.0,43.0,10.75,133,5.5,Day 23
+2026-04-14,3.0,29.0,9.67,130,4.0,Day 24
