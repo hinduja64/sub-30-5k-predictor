@@ -33,4 +33,3 @@ date,distance_km,duration_minutes,pace_per_km,heart_rate,sleep_hours,notes
 2026-04-21,5.0,40.0,8.0,157,5.0,"""Day 31: Aerobic"""
 2026-04-22,3.0,30.0,10.0,140,4.0,Day 32
 2026-04-23,4.0,29.0,7.25,152,2.0,"""Day 33"""
-2026-04-24,0.01,0.01,1.0,150,6.0,Rest DAY
