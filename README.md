@@ -22,7 +22,7 @@ Standard training plans usually ignore the female biological clock. I am buildin
 
 * I log distance and pace for every run.
 * I track my resting heart rate to measure recovery.
-* I watch how my menstural cycle changes my top speed.
+* I watch how my menstrual cycle changes my top speed.
 
 ### The Progress
 
