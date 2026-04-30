@@ -1,5 +1,9 @@
 # Road to Sub 30
 
+### The Goal - Sub-30 5k
+
+A sub-30 5k means finishing a five kilometer run in under thirty minutes. This requires maintaining an average pace of 6:00 minutes per kilometer. I am using data and AI to bridge the gap between my current ability and this target.
+
 I am a Product Manager moving into AI and ML research engineering. This project is my 100 day experiment. I am already building an AI agent to act as my coach. I use my own running data to train this agent.
 
 ### The Agent
